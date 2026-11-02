@@ -1,6 +1,6 @@
  div img{
      width:200px;
-     height: 200px; 
+     height: 300px; 
      padding:20px;
      border-radius:100px;
      border:solid gray
@@ -9,5 +9,5 @@
     background-color: navy;
     display:flex;
     padding:20;
-    
+
  }
